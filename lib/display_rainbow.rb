@@ -1,3 +1,3 @@
 def display_rainbow (colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  puts "colors"
+  puts "display_rainbow #{colors}"
 end
