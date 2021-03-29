@@ -1,4 +1,3 @@
-def display_rainbow colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-  puts "R: #{red [1]}"
-  puts "O: #{orange [3]}"
+def display_rainbow(colors)
+  puts colors.join(", ")
 end
