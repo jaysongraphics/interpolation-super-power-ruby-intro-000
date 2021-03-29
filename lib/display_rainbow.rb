@@ -1,3 +1,3 @@
-def colors (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-puts "display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])"
+def display_rainbow
+  puts "display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])"
 end
