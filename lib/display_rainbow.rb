@@ -1,3 +1,3 @@
-def display_rainbow(R:red)
-  puts "colors #{colors}"
+def display_rainbow(colors)
+  puts "colors #{R:red}"
 end
