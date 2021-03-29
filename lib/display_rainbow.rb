@@ -1,4 +1,4 @@
 
 def display_rainbow (colors)
-  puts "(R: red, O: orange, Y: yeloow, G: green, B: blue, I: indigo, V: violet)"
+  puts "R: #{red[0]}, Age: #{bob[1]}, Occupation: #{bob[2]}"
 end
