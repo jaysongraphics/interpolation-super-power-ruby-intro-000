@@ -1,3 +1,3 @@
-def display_rainbow (colors)
-  puts "#{ R: red, O: orange, Y: yeloow, G: green, B: blue, I: indigo, V: violet"}"
+def display_rainbow (colors= "red", "orange", "yellow", "green", "blue", "indigo", "violet")
+  puts "R: #{red [1]}"
 end
