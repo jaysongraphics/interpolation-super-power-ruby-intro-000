@@ -6,4 +6,6 @@ B: = "blue"
 I: = "indigo"
 v: = "violet"
 
-puts "Name: #{bob_name}, Age: #{bob_age}, Occupation: #{bob_occupation}"
+puts "colors: #{R},
+#{O}
+#{V}"
