@@ -1,3 +1,3 @@
-def display_rainbow(color)
+def display_rainbow(colors)
   puts "color: #{"R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"}"
 end
